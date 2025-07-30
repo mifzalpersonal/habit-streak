@@ -22,3 +22,4 @@ A mobile app that helps you stay consistent with your daily habits through a sim
 - [ ] Habit logic
 - [ ] Streak tracking system
 
+trust me, im working on it. currently installing waydroid lmao
